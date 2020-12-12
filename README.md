@@ -8,6 +8,3 @@ https://docs.google.com/spreadsheets/d/1VEndX1lPavOsfebkqnlhpQMifnokIMOJrsVcorqm
 
 - [기업](http://dart.fss.or.kr/)
 - [정부](http://www.alio.go.kr/home.do)
-
-- 기업 : dart.fss.or.kr
-- 정부 : alio.go.kr
