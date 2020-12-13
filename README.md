@@ -49,6 +49,9 @@ https://docs.google.com/spreadsheets/d/1SI1lB57E6qOrBDO0XgqDTbjl3Ibi70Rd7McGkt3t
 
 - countif()
   - 이 조건에 해당하면 세어라
+  ##### 순서
+  1. (범위 지정
+  2. 명명)
 - sumif()
 - vlookup()
 
