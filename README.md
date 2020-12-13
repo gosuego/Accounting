@@ -22,6 +22,8 @@ https://docs.google.com/spreadsheets/d/1SI1lB57E6qOrBDO0XgqDTbjl3Ibi70Rd7McGkt3t
 금액을 차변 대변으로 나누어 두번 적는 것을 복식부기라 함.
 하나 적는 것 -> 분개(Journal Entry)
 
+![demo](./screenshot/space.png)
+
 1. 규칙이 있다.
 
 - 차변 대변 위치에 따라 자산이 증가하고 부채가 감소한다.
