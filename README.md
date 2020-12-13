@@ -47,13 +47,22 @@ https://docs.google.com/spreadsheets/d/1SI1lB57E6qOrBDO0XgqDTbjl3Ibi70Rd7McGkt3t
 
 ### 기본수식
 
+##### 공통순서
+
+1. 범위 지정 | 고정 $ 법위 f4
+2. 명 선택
+
 - countif()
+
   - 이 조건에 해당하면 세어라
-  ##### 순서
-  1. 범위 지정 | 고정 $ 법위 f4
-  2. 명명
+
 - sumif()
+  - 조건에 해당하는 값 더하기
 - vlookup()
+
   - 단가 지정 flase를 넣어준다.
+
+- 서식지정
+  - ctrl + 1 을 누르면 셀서식으로 간다. (빈칸 없이 세 자리 끊어일기 가능)
 
 ### 피벗테이블
