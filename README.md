@@ -2,11 +2,11 @@
 
 ## 회계 1
 
+---
+
 https://docs.google.com/spreadsheets/d/1VEndX1lPavOsfebkqnlhpQMifnokIMOJrsVcorqmyY8/edit?usp=sharing
 
 ### 기업과 정부의 재무상태표를 습관적으로 그리고 반복적으로 찾아본다.
-
----
 
 - [기업](http://dart.fss.or.kr/)
 - [정부](http://www.alio.go.kr/home.do)
@@ -40,3 +40,15 @@ https://docs.google.com/spreadsheets/d/1SI1lB57E6qOrBDO0XgqDTbjl3Ibi70Rd7McGkt3t
 - 재무상태에 대해서 판단 가능
 
 회계정보는 복식부기로 작성하는 것이 원칙!
+
+## exel
+
+---
+
+### 기본수식
+
+- countif()
+- sumif()
+- vlookup()
+
+### 피벗테이블
