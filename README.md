@@ -48,6 +48,7 @@ https://docs.google.com/spreadsheets/d/1SI1lB57E6qOrBDO0XgqDTbjl3Ibi70Rd7McGkt3t
 ### 기본수식
 
 - countif()
+  - 이 조건에 해당하면 세어라
 - sumif()
 - vlookup()
 
