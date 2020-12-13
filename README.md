@@ -24,7 +24,7 @@ https://docs.google.com/spreadsheets/d/1SI1lB57E6qOrBDO0XgqDTbjl3Ibi70Rd7McGkt3t
 
 ![demo](./screenshot/space.png)
 
-1. 규칙이 있다.
+1. 규칙
 
 - 차변 대변 위치에 따라 자산이 증가하고 부채가 감소한다.
 - 자기 위치에 적으면 증가한거고 반대편에 감소한거다.
