@@ -6,6 +6,8 @@ https://docs.google.com/spreadsheets/d/1VEndX1lPavOsfebkqnlhpQMifnokIMOJrsVcorqm
 
 ### 기업과 정부의 재무상태표를 습관적으로 그리고 반복적으로 찾아본다.
 
+---
+
 - [기업](http://dart.fss.or.kr/)
 - [정부](http://www.alio.go.kr/home.do)
 
@@ -29,12 +31,12 @@ https://docs.google.com/spreadsheets/d/1SI1lB57E6qOrBDO0XgqDTbjl3Ibi70Rd7McGkt3t
 
 - 차변 = 나의 소유의 모든 것 | ex) 차, 건물, 자동차, 부동산, 돈
 - 대변 = 그 자산을 누구의 돈으로 샀는가? | ex) 부채(남의 돈) 자본(나의 돈)
-
-차변에다가 자산을 먼저 적은 다음에 대변에다가 그게 무슨 돈인지, 누구의 돈으로 샀는지 적는 게 좋다.
-자산의 재원이 어디서 왔는지 표시
-재무상태에 대해서 판단 가능
-
 - 수익 = 현금이 늘면
 - 비용 = 현금이 줄면
+
+3. 차변에다가 자산을 먼저 적은 다음에 대변에다가 그게 무슨 돈인지, 누구의 돈으로 샀는지 적는 게 좋다.
+
+- 자산의 재원이 어디서 왔는지 표시
+- 재무상태에 대해서 판단 가능
 
 회계정보는 복식부기로 작성하는 것이 원칙!
