@@ -66,3 +66,15 @@ https://docs.google.com/spreadsheets/d/1SI1lB57E6qOrBDO0XgqDTbjl3Ibi70Rd7McGkt3t
   - ctrl + 1 을 누르면 셀서식으로 간다. (빈칸 없이 세 자리 끊어일기 가능)
 
 ### 피벗테이블
+
+- 어떤 값이든 자유자재로 보고 양식을 생성할 수 있다.
+
+#### 순서
+
+1.  삽입
+2.  피벗테이블
+3.  범위 지정
+
+### 예제
+
+![demo](./screenshot/ex01.png)
