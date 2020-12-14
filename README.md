@@ -80,3 +80,11 @@ https://docs.google.com/spreadsheets/d/1SI1lB57E6qOrBDO0XgqDTbjl3Ibi70Rd7McGkt3t
 https://docs.google.com/spreadsheets/d/13PjdKG8zL5CZboRly89D_PIVJ-dqBtKBvmeW_LBkhE4/edit?usp=sharing
 
 ![demo](./screenshot/ex01.png)
+
+#### 질문 및 실수 오답노트
+
+- 피벗테이블 어떻게 만들어요?
+- 함수를 사용할 때는 = 붙이세요
+- vlookup함수 범위 정하는거 
+
+
