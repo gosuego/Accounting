@@ -49,7 +49,7 @@ https://docs.google.com/spreadsheets/d/1SI1lB57E6qOrBDO0XgqDTbjl3Ibi70Rd7McGkt3t
 
 ##### 공통순서
 
-1. 범위 지정 | 고정 $ 법위 f4
+1. 범위 지정 | 고정 $ 범위 f4
 2. 명 선택
 
 - countif()
@@ -85,6 +85,4 @@ https://docs.google.com/spreadsheets/d/13PjdKG8zL5CZboRly89D_PIVJ-dqBtKBvmeW_LBk
 
 - 피벗테이블 어떻게 만들어요?
 - 함수를 사용할 때는 = 붙이세요
-- vlookup함수 범위 정하는거 
-
-
+- vlookup함수 범위 정하는거
