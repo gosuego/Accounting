@@ -71,6 +71,7 @@ https://docs.google.com/spreadsheets/d/1SI1lB57E6qOrBDO0XgqDTbjl3Ibi70Rd7McGkt3t
 
 - 서식지정
   - ctrl + 1 을 누르면 셀서식으로 간다. (빈칸 없이 세 자리 끊어일기 가능)
+  - 기본 테이블 말고 단축키를 이용해 사용자 지정을 해주는 이유는 ppt로 가져갔을 때 불필요한 공백이 생기지 않기 위함.
 
 ### 피벗테이블
 
