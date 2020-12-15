@@ -95,3 +95,5 @@ https://docs.google.com/spreadsheets/d/13PjdKG8zL5CZboRly89D_PIVJ-dqBtKBvmeW_LBk
 - 함수를 사용할 때는 = 붙이세요
 - vlookup함수 범위 정할 때는 f4키를 누르세요
 - 피벗테이블로 수량은 어떻게 더할까요?
+
+- ![demo](./screenshot/error.png)
