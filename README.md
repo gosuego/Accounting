@@ -96,4 +96,4 @@ https://docs.google.com/spreadsheets/d/13PjdKG8zL5CZboRly89D_PIVJ-dqBtKBvmeW_LBk
 - vlookup함수 범위 정할 때는 f4키를 누르세요
 - 피벗테이블로 수량은 어떻게 더할까요?
 
-![demo](./screenshot/error.jpeg)
+![demo](./screenshot/error.png)
