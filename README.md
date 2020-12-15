@@ -97,3 +97,5 @@ https://docs.google.com/spreadsheets/d/13PjdKG8zL5CZboRly89D_PIVJ-dqBtKBvmeW_LBk
 - 피벗테이블로 수량은 어떻게 더할까요?
 
 ![demo](./screenshot/error.png)
+
+- =vlookup($E$3:$E$22,$I$14:$J$22,2,FALSE())
