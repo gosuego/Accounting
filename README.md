@@ -93,4 +93,5 @@ https://docs.google.com/spreadsheets/d/13PjdKG8zL5CZboRly89D_PIVJ-dqBtKBvmeW_LBk
 
 - 피벗테이블 어떻게 만들어요?
 - 함수를 사용할 때는 = 붙이세요
-- vlookup함수 범위 정하는거
+- vlookup함수 범위 정할 때는 f4키를 누르세요
+- 피벗테이블로 수량은 어떻게 더할까요?
